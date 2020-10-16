@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84422639031",
+    "firebase_url": "https://razzmatazz.firebaseio.com",
+    "project_id": "razzmatazz",
+    "storage_bucket": "razzmatazz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84422639031:android:21756626e985fffaa93c32",
+        "android_client_info": {
+          "package_name": "devlight.razzmatzz.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84422639031-qu7r5bumdl8uch2193j799sq0kiknoep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXklJNDAUsp21GY5tHjjw76fPunQi-C-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84422639031-qu7r5bumdl8uch2193j799sq0kiknoep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

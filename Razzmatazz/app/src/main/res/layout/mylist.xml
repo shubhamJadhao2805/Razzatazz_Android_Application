@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="377dp"
+        android:layout_height="67dp"
+        android:layout_gravity="center"
+        android:background="@drawable/textfieldbackground"
+        android:paddingTop="13dp"
+        android:text="TextView"
+        android:textColor="#202020"
+        android:textSize="20sp" />
+</LinearLayout>
